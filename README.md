@@ -6,9 +6,6 @@ To get started with the voice assistant, you will need to clone this repository 
 
 git clone https://github.com/Anonymous12-tech/Jarvis.git
 
-Once you have cloned the repository, you can install the required dependencies by running:
-
-pip install -r requirements.txt
 
 Using the Voice Assistant:
 
