@@ -14,6 +14,8 @@ Using the Voice Assistant:
 
 To use the voice assistant, simply run the voice_assistant.py script:
 
-python3 voice_assistant.py
+python3 jarvis.py
 
 The voice assistant will start listening for your voice commands. You can ask it any question, and it will use natural language processing to understand what you're asking and provide a response.
+
+NOTE: YOU NEED TO PUT YOUR OWN OPENAI API KEY INSIDE THE CODE FOR IT TO WORK.
