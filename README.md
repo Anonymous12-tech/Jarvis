@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 Using the Voice Assistant:
 
-To use the voice assistant, simply run the voice_assistant.py script:
+To use the voice assistant, simply run the jarvis.py script:
 
 python3 jarvis.py
 
